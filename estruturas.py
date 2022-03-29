@@ -1,3 +1,5 @@
+""" Só para relembrar do python """
+
 dados = [10, 20, 30, 40, 50, 60]
 
 print(dados[0])

@@ -14,9 +14,9 @@ driver.implicitly_wait(3) # Espera 3 segundos para o elemento aparecer na tela
 dados0 = driver.find_element_by_class_name('value').text # Busca de elemento pelo class_name
 dados1 = driver.find_elements_by_class_name('value')[0].text # Busca de elemento pelo class_name em uma lista
 dados2 = driver.find_elements_by_class_name('value')[3].text # Busca de elemento pelo class_name em uma lista
-dados3 = driver.find_elements_by_class_name('value')[4].text #
+dados3 = driver.find_elements_by_class_name('value')[4].text # Busca de elemento pelo class_name em uma lista
 
-# Mostra os dados
+# Mostra os dados na tela
 print(dados0)
 print(dados1)
 print(dados2)

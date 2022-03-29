@@ -9,3 +9,4 @@ Foram acrescentado por enquanto códigos para:
 - Busca de elementos de uma página pelo ID deles.
 - Busca de elementos pela class.
 - Busca de elementos pela tagname
+- Busca de elementos pelo Name
