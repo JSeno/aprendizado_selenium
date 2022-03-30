@@ -25,3 +25,7 @@ driver.implicitly_wait(3) # Espera 3 segundos para o elemento aparecer na tela
 dados3 = driver.find_element_by_id("product-name-default").text # Não encontrei nesse site o id default, mas entendi a ideia.
 
 print(dados3)
+
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui

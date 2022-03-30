@@ -14,3 +14,6 @@ campoBusca = driver.find_elements_by_name('q')[0] # Busca o elemento pelo nome q
 
 campoBusca.send_keys('Titanic') # Digita no campo de busca.
 
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui

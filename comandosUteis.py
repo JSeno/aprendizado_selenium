@@ -27,4 +27,7 @@ driver.implicitly_wait(5) # Espera de 5 segundos.
 
 driver.close() # Fecho a janela do navegador.
 
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui
+
 

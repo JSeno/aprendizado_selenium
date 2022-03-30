@@ -9,3 +9,6 @@ driver = webdriver.Chrome(executable_path=r"E:\Webdriver\chromedriver.exe")
 
 """ Aqui abro a página que quero navegar. """	
 driver.get("https://www.google.com")
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui

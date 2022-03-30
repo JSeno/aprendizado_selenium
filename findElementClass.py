@@ -21,3 +21,7 @@ print(dados0)
 print(dados1)
 print(dados2)
 print(dados3)
+
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui

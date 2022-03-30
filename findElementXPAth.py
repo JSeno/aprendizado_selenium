@@ -23,3 +23,7 @@ print(valorTabela)
 print(proventos)
 print(volumeAluguel)
 print(nomeAdministrador)
+
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui

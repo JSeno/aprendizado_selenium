@@ -22,3 +22,7 @@ print(nomeFii)
 print(valorAtual)
 print(tabelaRendimentos)
 print(tabelaResultados)
+
+
+# Documentação
+# https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.support.ui
